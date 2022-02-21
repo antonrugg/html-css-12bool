@@ -21,6 +21,42 @@
     
 }
 
+.start-flex{
+    justify-content: flex-start;
+}
+
+.center-flex{
+    justify-content: center;
+}
+
+.end-flex{
+    justify-content: flex-end;
+}
+
+.top{
+    align-self: flex-start;
+}
+
+.middle{
+    align-self: center;
+}
+
+.bot{
+    align-self: flex-end;
+}
+
+.space-around{
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+}
+
+.space-between{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
 
 
 .center{
