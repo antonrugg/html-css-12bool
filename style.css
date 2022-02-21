@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bg-blue{
+    background-color: blue;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+.height-100{
+    height: 100px;
+}
+
+.height-70{
+    height: 70px;
+}
+
+.width-80{
+    width: 80%;
+}
+
+.border-white{
+    border: 1px solid white;
+}
+
+.border-none{
+    border: 1px solid blue;
+}
+
+.pad-left-right{
+    padding: 0 1rem;
+}
+
+.t-white{
+    color: white;
+}
+
+.mg-bot{
+    margin-bottom: 2rem;
+}
